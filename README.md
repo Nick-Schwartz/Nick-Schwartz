@@ -2,22 +2,23 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>On-Prem Cyber Lab (2023)</b>
+- <b>✅ On-Prem Cyber Lab (2023)</b>
    - In my home cyber lab, I've created a tailored cybersecurity testing environment, connecting vulnerable devices to a guest network. Using Parrot Security OS on a laptop, I actively practice ethical hacking, conduct in-depth data analysis, and continuously patch vulnerabilities, contributing to my cybersecurity expertise. 
-- <b>Cloud Cyber Lab (2023)</b>
+- <b>✅ Cloud Cyber Lab (2023)</b>
    - In my cloud hacking lab, I've created a virtualized environment for cybersecurity testing, deploying vulnerable virtual machines hosted in the cloud. Using Kali Linux, I practice ethical hacking, conduct in-depth data analysis, and actively patch vulnerabilities, ensuring hands-on learning for securing cloud-based systems. </b></i>
-- <b>Fortified Home Network (2024)</b>
+- <b>✅ Fortified Home Network (2024)</b>
    - Securing my home network, I've implemented robust measures with pfSense software on a configured router. This includes firewall, DHCP, DNS, VLAN, and VPN rules. Regular scans ensure a resilient and reliable network.
 
 <h2>🔭 I’m currently working on ...</h2>
 
 - <b>Home Wi-Fi Segmentation</b>
-   - Working on building out additional VLANs for segmenting off IoT devices at home that I do not trust (i.e., Ring camera, Amazon Alexa (Echo), Firestick, etc.). 
+   - Working on building out additional VLANs for segmenting off IoT devices at home that I do not trust (i.e., Ring camera, Amazon Alexa (Echo), Firestick, etc.).
+- <b>Malware Analysis Lab</b>
+   - ... 
 
 <h2>⌛ Queued Cybersecurity Projects ...</h2>
 
-- <b>Malware Analysis Lab</b>
-   - ... 
+
 - <b>Identify & Remediate Vulnerabilities</b>
    - ...
 - <b>IDS/Zeek Network Monitoring</b>
