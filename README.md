@@ -12,13 +12,12 @@
 <h2>🔭 I’m currently working on ...</h2>
 
 - <b>Home Wi-Fi Segmentation</b>
-   - Working on building out additional VLANs for segmenting off IoT devices at home that I do not trust (i.e., Ring camera, Amazon Alexa (Echo), Firestick, etc.).
-- <b>Malware Analysis Lab</b>
-   - ... 
+   - Building out additional VLANs for segmenting off IoT devices at home that I do not trust (i.e., Ring camera, Amazon Alexa (Echo), Firestick, etc.).
 
 <h2>⌛ Queued Cybersecurity Projects ...</h2>
 
-
+- <b>Malware Analysis Lab</b>
+   - ... 
 - <b>Identify & Remediate Vulnerabilities</b>
    - ...
 - <b>IDS/Zeek Network Monitoring</b>
