@@ -28,6 +28,7 @@
    - ...
   
 <h2>🌱 I’m currently learning ...</h2>
+
 - EC-Council Hands-on Penetration Testing with Netcat
 - IT Governance - Keller Graduate School of Management
 
