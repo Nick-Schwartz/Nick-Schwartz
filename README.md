@@ -18,8 +18,6 @@
 
 <h2>⌛ Queued Cybersecurity Projects ...</h2>
 
-- <b>Malware Analysis Lab</b>
-   - ... 
 - <b>Identify & Remediate Vulnerabilities</b>
    - ...
 - <b>IDS/Zeek Network Monitoring</b>
@@ -27,6 +25,8 @@
 - <b>Set up a Honeypot</b>
    - ...
 - <b>Wazuh to SOAR Implementation</b>
+   - ...
+- <b>Malware Analysis Lab</b>
    - ...
   
 <h2>🌱 I’m currently learning ...</h2>
